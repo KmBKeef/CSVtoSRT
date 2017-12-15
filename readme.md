@@ -1,7 +1,7 @@
 # A tool to convert CSV files into SRT
 
 
-CSV file(input) should look like the following:  
+CSV file structure (input) should look like the following:  
 
 
 | ID | start time   | end time    | "Subtitle"                          |
